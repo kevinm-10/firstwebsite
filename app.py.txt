@@ -1,0 +1,10 @@
+import streamlit as st
+
+
+st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
+
+#header
+st.subheader("Hi, I am kev :wave:")
+st.title("A data analyst from mexico")
+st.write(" Learning how to make websites on Python.")
+st.write("[learn More >](https://www.fiverr.com/users/kevinmoreno342/seller_dashboard)")
